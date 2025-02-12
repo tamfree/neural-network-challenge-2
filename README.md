@@ -13,10 +13,6 @@ Python >= version 3.9
 
 [Scikit-learn](https://scikit-learn.org/)
 
-* sklearn.preprocessing.StandardScaler
-* sklearn.model_selection.train_test_split
-* sklearn.metrics.accuracy_score
-
 [TensorFlow Keras](https://www.tensorflow.org/guide/keras)
 * tensorflow.keras.layers.Dense
 * ensorflow.keras.models.Model
@@ -34,3 +30,13 @@ To run locally (refer to TensorFlow documentation to determine if this appropria
         pip install tensorflow
 
 Open attrition.ipynb in your preferred Jupyter Notebook editor.
+
+<details>
+    <summary> Associated Lesson</summary>
+## Lesson 19 - Neural Networks 2
+
+New Concepts covered:
+
+* Branching TensorFlow Keras Models
+
+</details>
